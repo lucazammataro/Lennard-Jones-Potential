@@ -20,3 +20,7 @@ This code was originally published in an article on Medium in 2020. You can find
 
 This code is licensed under the GPL 3.0 License. See the LICENSE file for more information.
 
+## Contact
+
+If you have any questions or need further information, please contact luca.zammataro@gmail.com
+
