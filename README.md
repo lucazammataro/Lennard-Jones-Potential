@@ -1,6 +1,6 @@
-### The Lennard-Jones Potential
+## The Lennard-Jones Potential
 
-The Notebook propose a Python code which has been proposed, for the firs time, in a Medium article published in 2020. You can find the article following the link:
+The Notebook includes a Python code which has been proposed, for the firs time, in a Medium article published in 2020. You can find the article following the link:
 
 https://towardsdatascience.com/the-lennard-jones-potential-35b2bae9446c
 
