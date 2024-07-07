@@ -12,3 +12,7 @@ The LJP addresses the topic of the fundamental molecular dynamics of non-bonded 
 
 -Repulsive forces: resistance to compression.
 -Attractive forces: mutual attraction of pairs of particles over a range of separations (dipole-dipole, dipole-induced dipole, van der Waals forces encompassing London dispersion forces).
+
+## Author
+Luca Zammataro, Copyright(c) 2020
+
