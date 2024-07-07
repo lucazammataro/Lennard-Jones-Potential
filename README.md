@@ -1,13 +1,5 @@
 ## The Lennard-Jones Potential
 
-## Original Publication
-
-This code was originally published in an article on Medium in 2020. You can find the article here: [Link to the Medium Article](https://towardsdatascience.com/the-lennard-jones-potential-35b2bae9446c)
-
-## License
-
-This code is licensed under the GPL 3.0 License. See the LICENSE file for more information.
-
 The Lennard-Jones (JP) was initially proposed in 1924 by Sir John Edward Lennard-Jones for liquid argon. 
 This potential governs the strength of the interaction and repulsion for a pair of atoms i and j located at ri and rj positions. 
 It calculates their accelerations and forces based on their distance of separation r.
@@ -19,4 +11,12 @@ The LJP addresses the topic of the fundamental molecular dynamics of non-bonded 
 
 ## Author
 Luca Zammataro, Copyright(c) 2020
+
+## Original Publication
+
+This code was originally published in an article on Medium in 2020. You can find the article here: [Link to the Medium Article](https://towardsdatascience.com/the-lennard-jones-potential-35b2bae9446c)
+
+## License
+
+This code is licensed under the GPL 3.0 License. See the LICENSE file for more information.
 
